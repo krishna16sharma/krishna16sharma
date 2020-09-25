@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Krishna, an aspiring engineer interested in the fields of Fullstack Development and Machine Learning. 
+
 <!--
 **krishna16sharma/krishna16sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
