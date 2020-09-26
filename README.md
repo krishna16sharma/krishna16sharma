@@ -2,6 +2,8 @@
 
 I'm Krishna, an aspiring engineer interested in the fields of Fullstack Development and Machine Learning. 
 
+[![Gmail Badge](https://img.shields.io/badge/-krishna16sharma.s@gmail.com-c14438?style=flat-square&logo=Gmail&label=Gmail&logoColor=white&link=mailto:krishna16sharma.s@gmail.com)](mailto:krishna16sharma.s@gmail.com)
+
 <!--
 **krishna16sharma/krishna16sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
