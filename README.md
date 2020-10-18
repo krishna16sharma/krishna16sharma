@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Krishna, an aspiring engineer interested in the fields of Fullstack Development and Machine Learning. 
+I'm Krishna, an aspiring engineer interested in the fields of Web Development and Machine Learning. 
 
 [![Gmail Badge](https://img.shields.io/badge/-krishna16sharma.s@gmail.com-c14438?style=flat-square&logo=Gmail&label=Gmail&logoColor=white&link=mailto:krishna16sharma.s@gmail.com)](mailto:krishna16sharma.s@gmail.com)
 
