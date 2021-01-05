@@ -4,7 +4,7 @@ I'm Krishna, an aspiring engineer interested in the fields of Web Development an
 
 [![Gmail Badge](https://img.shields.io/badge/-krishna16sharma.s@gmail.com-c14438?style=flat-square&logo=Gmail&label=Gmail&logoColor=white&link=mailto:krishna16sharma.s@gmail.com)](mailto:krishna16sharma.s@gmail.com)
 
-[![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishna16sharma&hide=stars,issues&show_icons=true)](https://github.com/krishna16sharma/github-readme-stats)
+[![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishna16sharma&hide=stars,issues&show_icons=true)](https://github.com/krishna16sharma/)
 
 <!--
 **krishna16sharma/krishna16sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
