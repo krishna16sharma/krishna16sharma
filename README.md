@@ -6,7 +6,7 @@ I'm Krishna, an aspiring engineer interested in the fields of FullStack Developm
 
 [![Krishna's github stats](https://github-readme-stats.vercel.app/api?username=krishna16sharma&hide=stars,issues&show_icons=true)](https://github.com/krishna16sharma/)
 
-![](https://komarev.com/ghpvc/?username=krishna16sharma&color=red)
+![](https://komarev.com/ghpvc/?username=krishna16sharma&color=red&style=flat-square)
 
 <!--
 **krishna16sharma/krishna16sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
