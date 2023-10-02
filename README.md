@@ -10,6 +10,8 @@ I'm Krishna, a software engineer interested in the fields of FullStack Developme
 
 ![](https://komarev.com/ghpvc/?username=krishna16sharma&color=red&style=flat-square)
 
+[![An image of my Holopin badges, which is a link to view my full Holopin profile](https://holopin.me/krishna16sharma)](https://holopin.io/@krishna16sharma)
+
 
 <!--
 **krishna16sharma/krishna16sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
