@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Krishna, a software engineer interested in the fields of FullStack Development and Machine Learning. 
+I'm Krishna, an enthusiastic CS student interested in the world of AI and Data Science. I also enjoy creating websites and games from time to time.
 
 [![Gmail Badge](https://img.shields.io/badge/-krishna16sharma.s@gmail.com-c14438?style=flat-square&logo=Gmail&label=Gmail&logoColor=white&link=mailto:krishna16sharma.s@gmail.com)](mailto:krishna16sharma.s@gmail.com)
 
